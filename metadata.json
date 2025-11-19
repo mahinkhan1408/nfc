@@ -1,0 +1,5 @@
+{
+  "name": "Muradtap Card Customizer",
+  "description": "A web application that allows users to customize their digital business card, inspired by the Muradtap onboarding experience. Users can change profile pictures, logos, colors, and themes, with a live preview.",
+  "requestFramePermissions": []
+}
